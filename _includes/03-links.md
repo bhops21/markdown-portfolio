@@ -1,1 +1,1 @@
-[GitHub]([(https://docs.github.com/en/get-started])
+[GitHub](https://docs.github.com/en/get-started)
